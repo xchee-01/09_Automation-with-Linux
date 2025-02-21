@@ -91,12 +91,12 @@ So, with this class, you can create multiple unique instances (which, in this ca
 So in this case, you can use the modules like this. 
 
 ```
-import test    # * means import everything
+import cat_script    # * means import everything
 
 # Creating multiple cats
-buddy = test.cat("Buddy", 3)
-max = test.cat("Max", 5)
-luna = test.cat("Luna", 2)
+buddy = cat_script.cat("Buddy", 3)
+max = cat_script.cat("Max", 5)
+luna = cat_script.cat("Luna", 2)
 
 # Each cat has its own name and age
 print(buddy.name)  
