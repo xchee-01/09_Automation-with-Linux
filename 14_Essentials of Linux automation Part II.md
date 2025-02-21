@@ -50,10 +50,16 @@ I am going to call my environmet `precisionmed`. You can call it however you wan
 
 For simplicity, pls go to your Linux Desktop. **Check that you are at Desktop** by typing `pwd`
 
+Now let's install the python venv module
+
 ```
 # Install venv module
 sudo apt install python3-venv
+```
 
+and then create a virtual environment
+
+```
 # Create a virtual environment
 python3 -m venv <env name>    # For example, python3 -m venv precisionmed
 
