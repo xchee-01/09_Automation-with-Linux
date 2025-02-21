@@ -121,7 +121,7 @@ df = pd.DataFrame(data = d)
 Alternatively, you can:
 
 ```
-from test import cat      # Import just the cat class
+from cat_script import cat      # Import just the cat class
 
 # Creating multiple cats
 buddy = cat("Buddy", 3)
