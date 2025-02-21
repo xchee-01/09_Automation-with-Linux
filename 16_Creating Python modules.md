@@ -23,7 +23,7 @@ def classify_bmi(bmi):
 
 You can then run this using Python. 
 
-1. On your linux terminal, type Python. This should bring you to the python interpreter.
+1. On your linux terminal, type python3. This should bring you to the python interpreter.
 
 2. You can run the code below **line by line** (meaning, you run each line one at a time)
 
